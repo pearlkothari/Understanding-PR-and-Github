@@ -1,9 +1,6 @@
-### 1
-Name: Vaibhav
+## Contributors Details
 
-Age: 18
-
-Country: India
-
-Github: iamvs-2002
-
+Name: [Vaibhav](https://github.com/iamvs-2002) <br/>
+Age: 18 <br/>
+About: newbie developer <br/>
+Country: India <br/>
