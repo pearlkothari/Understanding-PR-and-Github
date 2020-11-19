@@ -10,6 +10,7 @@ Git is a version control system. In Laymen terms, git is tool that is used to tr
 - GitHub allows you to store files in the cloud to access them from any computer and to share them with others.
 
 Now what is a Pull Request (or a PR)?
+
 A pull request (referred to as a PR) is a way for you to suggest changes to a repository that are visible and can be easily reviewed.
 
 Now, how to make a PR?
@@ -22,16 +23,34 @@ Now, how to make a PR?
 
 ### The process for the same has been described below.
 - First of all, check if you have Git installed on your computer. 
-To do so, open the terminal(or the commad prompt), and type the command: git --version
+
+To do so, open the terminal(or the commad prompt), and type the command: 
+
+  git --version
+
 This shows you the Git version running on your computer.
+
 If it shows an error, [Download Git](https://git-scm.com/downloads). 
+
 Repeat Step 1 after installing Git.
+
 - Next, fork this repo as described above.
-- Then go to terminal and clone the fork to your computer by using the command: git clone https://github.com/YOUR_USERNAME/Understanding-PR-and-Github.git 
+- Then go to terminal and clone the fork to your computer by using the command: 
+
+  git clone https://github.com/YOUR_USERNAME/Understanding-PR-and-Github.git 
+
 It would take some time and also, might require you to sign in if you are a first time user.
-- Now, open the folder in which it has cloned, i.e. Understanding-PR-and-Github, using the command: cd Understanding-PR-and-Github
-- Then, open the code base using the command: code .
-Remember: The code base opens in the text editor you had selected while installing Git.
+
+- Now, open the folder in which it has cloned, i.e. Understanding-PR-and-Github, using the command: 
+
+  cd Understanding-PR-and-Github
+
+- Then, open the code base using the command: 
+
+  code .
+
+**Remember: The code base opens in the text editor you had selected while installing Git.**
+
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
 
@@ -39,16 +58,29 @@ Name: YOUR_NAME
 Age: YOUR_AGE
 Country: YOUR_COUNTRY
 
+
 - That's it. Save the file(Ctrl+S).
 - Then on the terminal write the following command: git status
+
 It shows you the changes you have made in the file.
+
 - Now, add this changes by using the command: git add CONTRIBUTING.md
 - Now, we need to commit these changes and then push them to the Github repository.
-To commit, write the command: git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"
-Now, push the changes using the command: git push origin master
-NOTE: Here 'master' means that the changes are being pushed to the master branch.
+
+To commit, write the command: 
+
+  *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"
+
+Now, push the changes using the command: 
+
+  *git push origin master
+
+**NOTE: Here 'master' means that the changes are being pushed to the master branch.
+
 - Now we need to make a pull request.
+
 To do so, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
-Remember: The base repository stays the same. Then click on create!
+
+**Remember: The base repository stays the same. Then click on create!**
 
 ### BOOM! You just made your first PR.
