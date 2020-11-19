@@ -96,3 +96,5 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 **Remember: The base repository stays the same. Then click on create!**
 
 ### BOOM! You just made your first PR.
+
+Star this repository(meaning, bookmark this repository) if you find it useful, by clicking on **Star** button on the top right!
