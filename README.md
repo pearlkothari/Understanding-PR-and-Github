@@ -26,21 +26,20 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
 - First of all, check if you have Git installed on your computer. 
 
-To do so, open the terminal(or the commad prompt), and type the command: 
+   * To do so, open the terminal(or the commad prompt), and type the command: 
 
-  *git --version*
+     *git --version*
 
-This shows you the Git version running on your computer.
-If it shows an error, [Download Git](https://git-scm.com/downloads). 
-
-Repeat Step 1 after installing Git.
+    * This shows you the Git version running on your computer.
+    * If it shows an error, [Download Git](https://git-scm.com/downloads). 
+    * Repeat Step 1 after installing Git.
 
 - Next, fork this repo as described above.
 - Then go to terminal and clone the fork to your computer by using the command: 
 
   *git clone https://github.com/YOUR_USERNAME/Understanding-PR-and-Github.git*
 
-It would take some time and also, might require you to sign in if you are a first time user.
+  * It will take some time to clone and also, it might require you to sign in if you are a first time user.
 
 - Now, open the folder in which it has cloned, i.e. Understanding-PR-and-Github, using the command: 
 
