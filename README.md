@@ -2,12 +2,13 @@
 
 ### This repository is to teach you about how to start making contributions to the Open-source by making a PR.
 
-First, let's understand what is Git and Github.
+First, let's understand what is **Git** and **Github**.
 
-Git is a version control system. In Laymen terms, git is tool that is used to track changes in files (a process called version control).
+**Git** is a version control system. In simple words, git is tool that is used to track changes in files (a process called version control).
 
 - Git is used to manage various open-source development projects.
-- GitHub allows you to store files in the cloud to access them from any computer and to share them with others.
+ 
+**GitHub** allows you to store files in the cloud to access them from any computer and to share them with others.
 
 Now what is a **Pull Request (or a PR)**?
 
