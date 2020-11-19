@@ -1,6 +1,8 @@
 # Understanding PR and Github
 
-### This repository is to teach you about how to start making contributions to the Open-source by making a PR.
+## This repository is to teach you about how to start making contributions to the Open-source by making a PR.
+
+![image here](https://github.com/iamvs-2002/Understanding-PR-and-Github/blob/main/GitxGithub.png)
 
 First, let's understand what is **Git** and **Github**.
 
