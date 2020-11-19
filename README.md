@@ -39,7 +39,7 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
   *git clone https://github.com/YOUR_USERNAME/Understanding-PR-and-Github.git*
 
-  * It will take some time to clone and also, it might require you to sign in if you are a first time user.
+    * It will take some time to clone and also, it might require you to sign in if you are a first time user.
 
 - Now, open the folder in which it has cloned, i.e. Understanding-PR-and-Github, using the command: 
 
@@ -67,7 +67,7 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
   *git status*
 
- * It shows you the changes you have made in the file. It should be in RED Color initially, showing no changes have been made to the file.
+    * It shows you the changes you have made in the file. It should be in RED Color initially, showing no changes have been made to the file.
 
 - Now, add this changes by using the command: 
 
