@@ -83,11 +83,11 @@ It would take some time and also, might require you to sign in if you are a firs
 
   * To commit, write the command: 
 
-   *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"*
+      *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"*
 
   * Now, push the changes using the command: 
 
-   *git push origin main*
+      *git push origin main*
 
 **NOTE: Here 'main' means that the changes are being pushed to the main branch.**
 
