@@ -53,14 +53,12 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
-  *### [Here comes your number...(the above number + 1 )]*
-
-  *Name: YOUR_NAME*
-
-  *Age: YOUR_AGE*
-
-  *Country: YOUR_COUNTRY*
-
+  ```markdown
+  Name: [YOUR NAME](Github Link)
+  Age: Your age
+  About: Short Intro (Optional)
+  Country: Your country of residence
+  ```
 
 - That's it. Save the file(Ctrl+S).
 - Then on the terminal write the following command: 
