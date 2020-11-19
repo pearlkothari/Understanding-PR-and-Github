@@ -64,7 +64,7 @@ Country: YOUR_COUNTRY
 
   *git status*
 
-It shows you the changes you have made in the file.
+* It shows you the changes you have made in the file.
 
 - Now, add this changes by using the command: 
 
@@ -72,11 +72,11 @@ It shows you the changes you have made in the file.
 
 - Now, we need to commit these changes and then push them to the Github repository.
 
-To commit, write the command: 
+* To commit, write the command: 
 
   *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"*
 
-Now, push the changes using the command: 
+* Now, push the changes using the command: 
 
   *git push origin master*
 
@@ -84,7 +84,7 @@ Now, push the changes using the command:
 
 - Now we need to make a pull request.
 
-To do so, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
+* To do so, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
 
 **Remember: The base repository stays the same. Then click on create!**
 
