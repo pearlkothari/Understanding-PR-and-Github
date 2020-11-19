@@ -53,13 +53,13 @@ It would take some time and also, might require you to sign in if you are a firs
 
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
-*### [Here comes your number...(the above number + 1 )]*
+  *### [Here comes your number...(the above number + 1 )]*
 
-*Name: YOUR_NAME*
+  *Name: YOUR_NAME*
 
-*Age: YOUR_AGE*
+  *Age: YOUR_AGE*
 
-*Country: YOUR_COUNTRY*
+  *Country: YOUR_COUNTRY*
 
 
 - That's it. Save the file(Ctrl+S).
@@ -81,13 +81,13 @@ It would take some time and also, might require you to sign in if you are a firs
 
 - Now, we need to commit these changes and then push them to the Github repository.
 
-* To commit, write the command: 
+  * To commit, write the command: 
 
-  *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"*
+   *git commit -m"THE_MESSAGE_YOU_WANT_TO_GIVE"*
 
-* Now, push the changes using the command: 
+  * Now, push the changes using the command: 
 
-  *git push origin main*
+   *git push origin main*
 
 **NOTE: Here 'main' means that the changes are being pushed to the main branch.**
 
