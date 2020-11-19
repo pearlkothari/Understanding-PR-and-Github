@@ -53,6 +53,7 @@ It would take some time and also, might require you to sign in if you are a firs
 
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
+### [Here comes your number...(the above number + 1 )]
 Name: YOUR_NAME
 
 Age: YOUR_AGE
