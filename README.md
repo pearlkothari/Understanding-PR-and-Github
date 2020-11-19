@@ -22,7 +22,7 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 3. When you are done editing the text file locally on your computer, you save the file and 'git add' and 'git commit' your changes using git.
 4. Finally, you 'git push' those changes back up to your fork of this repository.
 
-### The process for the same has been described below:
+### Now let's make a contribution to this repo:
 
 - First of all, check if you have Git installed on your computer. 
 
