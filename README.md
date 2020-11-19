@@ -65,11 +65,17 @@ Country: YOUR_COUNTRY
 
   *git status*
 
-* It shows you the changes you have made in the file.
+ * It shows you the changes you have made in the file. It should be in RED Color initially, showing no changes have been made to the file.
 
 - Now, add this changes by using the command: 
 
   *git add CONTRIBUTING.md*
+  
+- Now, on the terminal again write the following command: 
+
+  *git status*
+  
+  * If it shows the file in GREEN Color, you're good to go, else save the file in the text editor and then repeat the process.
 
 - Now, we need to commit these changes and then push them to the Github repository.
 
@@ -79,9 +85,9 @@ Country: YOUR_COUNTRY
 
 * Now, push the changes using the command: 
 
-  *git push origin master*
+  *git push origin main*
 
-**NOTE: Here 'master' means that the changes are being pushed to the master branch.**
+**NOTE: Here 'main' means that the changes are being pushed to the main branch.**
 
 - Now, to make a pull request, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
 
