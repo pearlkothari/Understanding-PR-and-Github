@@ -53,12 +53,13 @@ It would take some time and also, might require you to sign in if you are a firs
 
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
-### [Here comes your number...(the above number + 1 )]
-Name: YOUR_NAME
+*### [Here comes your number...(the above number + 1 )]*
 
-Age: YOUR_AGE
+*Name: YOUR_NAME*
 
-Country: YOUR_COUNTRY
+*Age: YOUR_AGE*
+
+*Country: YOUR_COUNTRY*
 
 
 - That's it. Save the file(Ctrl+S).
