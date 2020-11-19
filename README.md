@@ -53,9 +53,10 @@ It would take some time and also, might require you to sign in if you are a firs
 
 - Now, head to the CONTRIBUTING.md file and enter your details in a format described below:
 
-
 Name: YOUR_NAME
+
 Age: YOUR_AGE
+
 Country: YOUR_COUNTRY
 
 
@@ -80,11 +81,9 @@ Country: YOUR_COUNTRY
 
   *git push origin master*
 
-**NOTE: Here 'master' means that the changes are being pushed to the master branch.
+**NOTE: Here 'master' means that the changes are being pushed to the master branch.**
 
-- Now we need to make a pull request.
-
-* To do so, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
+- Now, to make a pull request, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understanding-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
 
 **Remember: The base repository stays the same. Then click on create!**
 
